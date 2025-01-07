@@ -1,3 +1,4 @@
+# Particle Simulator
 Hello!
 
 This is my simulation of a pair of a positron and electron under the influence of an Electric field and Magnetic field.
